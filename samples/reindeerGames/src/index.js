@@ -21,61 +21,61 @@
  */
 var questions = [
     {
-        "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-            "13,000",
-            "1,200",
-            "5,000",
-            "700",
-            "1,000",
-            "120,000"
+        "How many national championships does Alabama have?": [
+            "1",
+            "12",
+            "300",
+            "4",
+            "14",
+            "16"
         ]
     },
     {
-        "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in:": [
-            "Japan",
-            "United States",
-            "Finland",
-            "Germany"
+        "After which season did Alabama adopt the nickname Crimson Tide?": [
+            "1943",
+            "1976",
+            "1907",
+            "2001"
         ]
     },
     {
-        "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-            "Wunorse Openslae",
-            "Alabaster Snowball",
-            "Bushy Evergreen",
-            "Pepper Minstix"
+        "Who do you despise the most?": [
+            "Auburn",
+            "LSU",
+            "Tennessee",
+            "All of the above"
         ]
     },
     {
-        "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be:": [
-            "Girls",
-            "Boys",
-            "Girls and boys",
-            "No way to tell"
+        "When did punt bama punt happen?": [
+            "2011",
+            "1972",
+            "Didn't happen",
+            "1902"
         ]
     },
     {
-        "What do Reindeer eat?": [
-            "Lichen",
-            "Grasses",
-            "Leaves",
-            "Berries"
+        "What is Gus Malzahn's best quality?": [
+            "Softball",
+            "Quarterbacks",
+            "Cam Newton",
+            "Who?"
         ]
     },
     {
-        "What of the following is not true?": [
-            "Caribou live on all continents",
-            "Both reindeer and Caribou are the same species",
-            "Caribou are bigger than reindeer",
-            "Reindeer live in Scandinavia and Russia"
+        "Which of the following is true?": [
+            "LSU is friendly",
+            "Texas A and M is in the SEC",
+            "This is Mississippi State's year.",
+            "Auburn is good at football."
         ]
     },
     {
-        "In what year did Rudolph make his television debut?": [
-            "1964",
-            "1979",
+        "In what year did Nick Saban make his television debut?": [
+            "1973",
+            "1983",
             "2000",
-            "1956"
+            "2007"
         ]
     },
     {
@@ -649,4 +649,3 @@ function buildResponse(sessionAttributes, speechletResponse) {
         response: speechletResponse
     };
 }
-
