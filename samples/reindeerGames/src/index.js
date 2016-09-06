@@ -24,7 +24,7 @@ var questions = [
         "How many national championships does Alabama have?": [
             "16",
             "12",
-            "300",
+            "320",
             "4",
             "14",
             "1"
